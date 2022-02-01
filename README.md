@@ -1,6 +1,6 @@
 # Smart Classroom
 Objective : The objective of this project is to automate the switching of Fans and lights 
-without need for searching switches. In this system a Camera is used to capture 
+without need for searching the switches. In this system a Camera is used to capture 
 images of the classroom/auditorium/factories. This images will be processed 
 using Deep learning algorithm such as CNN using Yolo Algorithm trained using 
 custom dataset.
